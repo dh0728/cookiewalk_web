@@ -1,6 +1,7 @@
 # cookiewalk
-![Alt text](/cookiewalk/public/logo/logo.jpg)
-<img src="/cookiewalk/public/logo/logo.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<p align="center">
+  <img src="/cookiewalk/public/logo/logo.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정"     alt="logo"></img>
+</p>
 
 
 클라이언트,서버 동시 실행 시키는 법
