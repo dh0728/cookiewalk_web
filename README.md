@@ -1,4 +1,7 @@
 # cookiewalk
+![Alt text](/cookiewalk/public/logo/logo.jpg)
+
+
 
 클라이언트,서버 동시 실행 시키는 법
 1.현재 디렉터리 server로 변경 cd server
