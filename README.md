@@ -1,20 +1,20 @@
-# cookiewalk
+# :cookie: cookiewalk
 <p align="center">
   <img src="/cookiewalk/public/logo/logo.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정"     alt="logo"></img>
 </p>
 
-## 쿠키워크 프로젝트 ##
+## :fire: 쿠키워크 프로젝트 ##
 > 디지털스마트 부산 아카데미 웹개발 훈력과정 프로젝트<br>
 > 개발기간: 2024.04 ~ 2024.06.20
 
-## 배포 주소 ##
+## :car: 배포 주소 ##
 > 프론트엔드 서버: https://cookiewalk.netlify.app <br>
 > 백엔드 서버 : https://blonde-bobolink-smartbusan-a2d9f8e5.koyeb.app
 
 ## 시작 가이드 ## 
 
 
-## 팀원 소개 ##
+## :family: 팀원 소개 ##
 <table>
   <tr>
     <td><div align="center"><b>권아진</div></td>
@@ -43,10 +43,15 @@
 
 
 
-## 프로젝트 개요 ##
+## :loudspeaker: 프로젝트 소개 ##
+좌식위주 생활, 비만율의 증가에 따른 신체활동 부족은 심혈관계질환, 당뇨병, 일부 암 같은 비감염성질환의 주요 위험 요인입니다. 
 
 
-## 기술스택 ##
+
+
+
+
+## :wrench: 기술스택 ##
 #### Environment ####
 <div>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
