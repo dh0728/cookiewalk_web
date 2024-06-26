@@ -13,6 +13,31 @@
 
 
 ## 팀원 소개 ##
+<table>
+  <tr>
+    <td>권아진</td>
+    <td>임민형</td>
+    <td>송동현</td>
+    <td>변진석</td>
+    <td>임현욱</td>
+  </tr>
+  <tr>
+    <td><img src="></td>
+    <td>임민형</td>
+    <td>송동현</td>
+    <td>변진석</td>
+    <td>임현욱</td>
+  </tr>
+  <tr>
+    <td>프론트엔드</td>
+    <td>프론트엔드</td>
+    <td>백엔드</td>
+    <td>백엔드</td>
+    <td>백엔드</td>
+  </tr>
+</table>
+
+
 
 ## 프로젝트 개요 ##
 
@@ -35,6 +60,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
 
 ## 화면 구성 ##
