@@ -8,6 +8,8 @@
 > 개발기간: 2024.04 ~ 2024.06.20
 
 ## 배포 주소 ##
+> 프론트엔드 서버: https://cookiewalk.netlify.app <br>
+> 백엔드 서버 : https://blonde-bobolink-smartbusan-a2d9f8e5.koyeb.app
 
 ## 시작 가이드 ## 
 
@@ -15,25 +17,25 @@
 ## 팀원 소개 ##
 <table>
   <tr>
-    <td>권아진</td>
-    <td>임민형</td>
-    <td>송동현</td>
-    <td>변진석</td>
-    <td>임현욱</td>
+    <td><div align="center"><b>권아진</div></td>
+    <td><div align="center"><b>임민형</div></td>
+    <td><div align="center"><b>송동현</div></td>
+    <td><div align="center"><b>변진석</div></td>
+    <td><div align="center"><b>임현욱</div></td>
   </tr>
   <tr>
-    <td></td>
-    <td>임민형</td>
-    <td>송동현</td>
-    <td>변진석</td>
-    <td>임현욱</td>
+    <td><img src="/cookiewalk/public/images/권아진.png"></td>
+    <td><img src="/cookiewalk/public/images/임민형.png"></td>
+    <td><img src="/cookiewalk/public/images/송동현.png"></td>
+    <td><img src="/cookiewalk/public/images/변진석.png"></td>
+    <td><img src="/cookiewalk/public/images/임현욱.png"></td>
   </tr>
   <tr>
-    <td>프론트엔드</td>
-    <td>프론트엔드</td>
-    <td>백엔드</td>
-    <td>백엔드</td>
-    <td>백엔드</td>
+    <td><div align="center">프론트엔드</div></td>
+    <td><div align="center">프론트엔드</div></td>
+    <td><div align="center">백엔드</div></td>
+    <td><div align="center">백엔드</div></td>
+    <td><div align="center">백엔드</div></td>
   </tr>
 </table>
 
