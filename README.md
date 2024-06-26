@@ -3,13 +3,21 @@
   <img src="/cookiewalk/public/logo/logo.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정"     alt="logo"></img>
 </p>
 
-## 쿠키워크 프로젝트 
-디지털스마트 부산 아카데미 웹개발 훈력과정 프로젝트<br>
-개발기간: 2024.04 ~ 2024.06.20
+## 쿠키워크 프로젝트 ##
+> 디지털스마트 부산 아카데미 웹개발 훈력과정 프로젝트<br>
+> 개발기간: 2024.04 ~ 2024.06.20
+
+## 배포 주소 ##
+
+## 시작 가이드 ## 
 
 
+## 팀원 소개 ##
 
-## Stacks ##
+## 프로젝트 개요 ##
+
+
+## 기술스택 ##
 #### Environment ####
 <div>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -28,6 +36,20 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
+
+## 화면 구성 ##
+
+
+## 주요 기능 ##
+
+## 기여도와 역할 ##
+
+## 결과 및 성과 ## 
+
+## 그외 ##
+
+
+
 
 
 
