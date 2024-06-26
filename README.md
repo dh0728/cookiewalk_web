@@ -22,7 +22,7 @@
     <td>임현욱</td>
   </tr>
   <tr>
-    <td><img src="></td>
+    <td></td>
     <td>임민형</td>
     <td>송동현</td>
     <td>변진석</td>
@@ -36,6 +36,8 @@
     <td>백엔드</td>
   </tr>
 </table>
+
+
 
 
 
