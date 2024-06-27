@@ -118,7 +118,10 @@
   <img src="/readme_images/그룹5.jpg" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p>
 
-
+### 마이페이지 ### 
+<p align="center">
+  <img src="/readme_images/마이페이지.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
+</p>
 
 ## 주요 기능 ##
 
