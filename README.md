@@ -73,8 +73,12 @@
 
 ## :mag_right: 화면 구성 ##
 ### 로그인 페이지 ### 
+<p align="center">
+  <img src="/readme_images/로그인페이지.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정"     alt="logo"></img>
+</p>
 
 ### 홈 페이지 ###
+
 
 
 ## 주요 기능 ##
