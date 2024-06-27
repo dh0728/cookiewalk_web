@@ -82,6 +82,11 @@
   <img src="/readme_images/홈페이지.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p>
 
+### 맵 페이지 ###
+<p align="center">
+  <img src="/readme_images/맵페이지.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
+</p>
+
 
 
 ## 주요 기능 ##
