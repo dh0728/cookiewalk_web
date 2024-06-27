@@ -89,7 +89,7 @@ export default function ProfileEdit() {
     // }
     const {data, error} = await supabase.storage
       .from('image')
-      .upload(newFilename, imageFile, {upsert: true}); //prifile 폴더내에 저장
+      .upload(newFilename, imageFile, {upsert: true}); //profile 폴더내에 저장
     if (error){
       console.error('오류 발생', error)   
     }
