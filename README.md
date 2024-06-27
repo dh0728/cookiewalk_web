@@ -112,6 +112,14 @@
   <img src="/readme_images/그룹메뉴3.jpg" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p>
 
+#### 걷기 완료 및 게시글 작성 ####
+<p align="center">
+  <img src="/readme_images/그룹4.jpg" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
+  <img src="/readme_images/그룹5.jpg" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
+</p>
+
+
+
 ## 주요 기능 ##
 
 ## 기여도와 역할 ##
