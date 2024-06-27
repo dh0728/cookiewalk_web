@@ -96,13 +96,22 @@
   <img src="/readme_images/걷기페이지2.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p>
 
-### 그룹 메뉴 및 그리기 페이지 ### 
+### 그룹 메뉴 및 만들기 페이지 ### 
+#### 그룹메뉴 ####
 <p align="center">
   <img src="/readme_images/그룹메뉴.jpg" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p>
+
+#### 그룹 만들기 페이지 ###
 <p align="center">
-  <img src="/readme_images/그룹페이지.gif" width="50%" height="50%"title="px(픽셀) 크기 설정"alt="logo"></img>
+  <img src="/readme_images/그룹메뉴2.jpg" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p>
+
+#### 가입한 그룹 상세 페이지 ####
+<p align="center">
+  <img src="/readme_images/그룹메뉴3.jpg" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
+</p>
+
 ## 주요 기능 ##
 
 ## 기여도와 역할 ##
