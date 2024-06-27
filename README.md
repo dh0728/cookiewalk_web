@@ -88,6 +88,25 @@
 </p>
 
 ### 걷기 페이지 ###
+<table>
+  <tr>
+    <td><div align="center"><b>beforeStart</div></td>
+    <td><div align="center"><b>start</div></td>
+    <td><div align="center"><b>송동현</div></td>
+  </tr>
+  <tr>
+    <td><img src="/readme_images/걷기페이지1.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img></td>
+    <td><img src="/readme_images/걷기페이지2.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img></td>
+    <td><img src="/cookiewalk/public/images/송동현.png"></td>
+   
+  </tr>
+  <tr>
+    <td><div align="center">프론트엔드</div></td>
+    <td><div align="center">프론트엔드</div></td>
+    <td><div align="center">백엔드</div></td>
+
+  </tr>
+</table>
 <p align="center">
   <img src="/readme_images/걷기페이지1.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p>
