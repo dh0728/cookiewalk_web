@@ -79,7 +79,7 @@
 
 ### 홈 페이지 ###
 <p align="center">
-  <img src="/readme_images/홈페이.mp4" width="40%" height="30%" title="px(픽셀) 크기 설정"     alt="logo"></img>
+  <img src="/readme_images/홈페이.gif" width="40%" height="30%" title="px(픽셀) 크기 설정"     alt="logo"></img>
 </p>
 
 
