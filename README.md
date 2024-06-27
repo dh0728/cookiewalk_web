@@ -96,6 +96,10 @@
   <img src="/readme_images/걷기페이지2.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p>
 
+### 그룹 메뉴 및 그리기 페이지 ### 
+<p align="center">
+  <img src="/readme_images/그룹페이지.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
+</p>
 ## 주요 기능 ##
 
 ## 기여도와 역할 ##
