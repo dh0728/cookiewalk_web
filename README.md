@@ -174,7 +174,7 @@
 * 우측 상단의 나의 포인트를 클릭해 상점으로 이동할 수 있고 아바타나 커피 같은 상품을 구매할 수 있습니다.
 
 ### 시연동영상 
-[![Video Label](https://youtu.be/'prmDZ0I3IAY'/0.jpg)](https://youtu.be/prmDZ0I3IAY)
+[![Video Label](/readme_images/시연영상스크린샷.png)](https://youtu.be/prmDZ0I3IAY)
 
 
 
