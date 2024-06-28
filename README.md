@@ -194,7 +194,7 @@
 
 ## 결과 및 성과 ## 
 <p align="center">
-  <img src="/readme_images/상장.jpg"  width="50%" height="50%"title="px(픽셀) 크기 설정"alt="logo"></img>
+  <img src="/readme_images/상장회전.jpg"  width="80%" height="80%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p
 
 
