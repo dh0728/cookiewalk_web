@@ -194,8 +194,10 @@
 
 ## 결과 및 성과 ## 
 <p align="center">
-  <img src="/readme_images/상장회전.jpg"  width="80%" height="80%"title="px(픽셀) 크기 설정"alt="logo"></img>
-</p
+  <img src="/readme_images/상장회전.jpg"  width="90%" height="90%"title="px(픽셀) 크기 설정"alt="logo"></img>
+</p>
+
+쿠키워크 프로젝트는 디지털스마트부산 아카데미에서 운영하는 제 4기 SW전문인재양성 교육과정에서 진행하였습니다. 모두가 열심히 프로젝트를 수행한 결과 2등인 우수상을 수상할 수 있었습니다.
 
 
 ## 그외 ##
