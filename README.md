@@ -9,7 +9,7 @@
 
 ## :car: 배포 주소 ##
 > 프론트엔드 서버: https://cookiewalk.netlify.app <br>
-> 백엔드 서버 : https://blonde-bobolink-smartbusan-a2d9f8e5.koyeb.app
+> 백엔드 서버(reverseGeocoding API) : https://blonde-bobolink-smartbusan-a2d9f8e5.koyeb.app
 
 ## 시작 가이드 ## 
 
@@ -174,15 +174,29 @@
 * 그래프를 통해 주, 월, 년 별로 사용자의 걸은 거리를 확인 할 수 있습니다.
 * 우측 상단의 나의 포인트를 클릭해 상점으로 이동할 수 있고 아바타나 커피 같은 상품을 구매할 수 있습니다.
 
-### 시연동영상 
+### :movie_camera: 시연동영상 
 [![Video Label](/readme_images/시연영상스크린샷.png)](https://youtu.be/prmDZ0I3IAY)
 
 
-
-
 ## 기여도와 역할 ##
+저는 이번 프로젝트에서 백엔드를 맡았습니다. 그중에서도 
+* 데이터베이스 설계
+* supabase Auth 기능을 활용한 로그인(일반, 구글, 카카오)
+* Naver Web Dynamic Map API, react-naver-map API를 활용한 지도 호출,
+* Naver ReverseGeocoding API, Nodejs를 이용한 좌표 주소 변환
+* 경로 및 기록 데이터 관리 및 처리
+* Geolocation API를 이용한 산책기능 구현
+* 백터의 내적과 외적을 활용한 경로 분석 및 Googel TTS API 를 이용한 음성안내 기능 구현
+의 역할을 수행하였습니다.
+
+저희는 supabase라는 백엔드 플랫폼을 사용해서 프로젝트를 진행하였습니다. supabase는 database, auth, storage, realTime 같은 백엔드를 위한 다양한 기능들이 있으며 서버리스 환경을 제공합니다. 하지만 리버스지오코딩 API는 서버프로그래밍이서만 사용이 가능하기 때문에 리버스지오코딩 API을 제외한 모든 백엔드 기능들은 react에서 구현하였습니다. 
+
 
 ## 결과 및 성과 ## 
+<p align="center">
+  <img src="/readme_images/상장.jpg" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
+</p
+
 
 ## 그외 ##
 
