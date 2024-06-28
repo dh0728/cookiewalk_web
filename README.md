@@ -205,17 +205,18 @@
 저를 포함한 팀원들 모두 비전공자이고 개발관련 프로젝트 경험이 부족하다보니 프로젝트 주제 선정, 구현 기능 정의 및 구현 방법 등 애플리케이션 구현을 위해 결정해야 하는 것들을 결정하는 것들 부터 프로젝트를 진행하면서 생기는 예상치 못한 오류들 까지 있어서 많은 어려움을 겪었습니다. 하지만 모두 함께 고민하고 소통하면서 문제들을 해결해 나갔고 프로젝트를 진행하여 좋은 결과를 얻으면서 저의 첫 번째 프로젝트를 마무리 할 수 있었습니다. <br>
 개발자가 되고 싶은 마음과 나의 열정을 확인할 수 있었던 시간이었고 아직 부족한 것이 많은 만큼 더 열심히 공부해 개발자로써 필요한 능력을 쌓아 좋은 개발자가 되도록 노력할 것입니다. 
 
-#### 그외 
-
-
-
-클라이언트,서버 동시 실행 시키는 법
-1.현재 디렉터리 server로 변경 cd server
-2.npm run start 
-
-서버만 실행 시키려면
-1.현재 디렉터리 server  cd server
-2.nodemon server.js    or   npm run server
-
-*cd server에서 npm run client해서 클라만 실행 가능
+#### :sparkles: 수료식 롤링 페이퍼
+<p align="center">
+  <img src="/readme_images/롤링1.jpg"  width="30%" height="30%"title="px(픽셀) 크기 설정"alt="logo"></img>
+  <img src="/readme_images/롤링2.jpg"  width="30%" height="30%"title="px(픽셀) 크기 설정"alt="logo"></img>
+  <img src="/readme_images/롤링3.jpg"  width="30%" height="30%"title="px(픽셀) 크기 설정"alt="logo"></img>
+</p>
+<p align="center">
+  <img src="/readme_images/롤링4.jpg"  width="30%" height="30%"title="px(픽셀) 크기 설정"alt="logo"></img>
+  <img src="/readme_images/롤링5.jpg"  width="30%" height="30%"title="px(픽셀) 크기 설정"alt="logo"></img>
+  <img src="/readme_images/롤링6.jpg"  width="30%" height="30%"title="px(픽셀) 크기 설정"alt="logo"></img>
+</p>
+<p align="center">
+  <img src="/readme_images/롤링7.jpg"  width="30%" height="30%"title="px(픽셀) 크기 설정"alt="logo"></img>
+</p>
 
