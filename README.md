@@ -166,6 +166,7 @@
 ### 마이페이지 ### 
 <p align="center">
   <img src="/readme_images/마이페이지.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
+  <img src="/readme_images/상점.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p
 
 * 사용자의 정보를 확인할 수 있는 페이지 입니다.
