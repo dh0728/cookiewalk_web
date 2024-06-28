@@ -71,16 +71,20 @@
 </div>
 
 
-## :mag_right: 화면 구성 ##
+## :mag_right: 화면 구성 및 주요 기능 ##
 ### 로그인 페이지 ### 
 <p align="center">
   <img src="/readme_images/로그인페이지.jpg" width="25%" height="25%" title="px(픽셀) 크기 설정"     alt="logo"></img>
 </p>
 
+* supabase Auth 기능을 활용하여 일반 로그인과 구글, 카카오 소셜 로그인 기능을 구현했습니다.
+* 
+
 ### 홈 페이지 ###
 <p align="center">
   <img src="/readme_images/홈페이지.gif" width="25%" height="25%"title="px(픽셀) 크기 설정"alt="logo"></img>
 </p>
+
 
 ### 맵 페이지 ###
 <p align="center">
